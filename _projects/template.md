@@ -15,7 +15,7 @@ contributors:
 
 ## Introduction
 
-Paragraph here
+Paragraph here.
 
 ## References
 
