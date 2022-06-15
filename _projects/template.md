@@ -1,5 +1,5 @@
 ---
-title: "Teaching and Learning on one Chelsea Block"
+title: "Teaching and Learning on One Chelsea Block"
 excerpt: 'Mapping the interconnected histories of four institutions'
 overlay_image: 'https://www.ps33chelseaprep.org/uploads/3/3/2/0/3320309/img-1478-copy-2.jpg'
 teaser: "https://www.ps33chelseaprep.org/uploads/3/3/2/0/3320309/img-1478-copy-2.jpg"
