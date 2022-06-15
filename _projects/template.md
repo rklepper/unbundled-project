@@ -10,7 +10,7 @@ contributors:
 
 ---
 
-<iframe src="https://uploads.knightlab.com/storymapjs/6ffc3e2c69426e4330cde64b0630531a/test/index.html" frameborder="0" width="90%" height="600"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/6ffc3e2c69426e4330cde64b0630531a/test/index.html" frameborder="0" width="100%" height="800"></iframe>
 
 
 ## Introduction
