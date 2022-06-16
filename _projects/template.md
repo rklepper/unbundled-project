@@ -15,9 +15,7 @@ contributors:
 
 ## Introduction
 
-Paragraph here.
+The three block area in Chelsea between 9th and 10th Avenues and 25th and 28th Streets contains four important sites for children spanning their educational, social, physical, residential, recreational, and cultural needs. These include PS 33, Chelsea Park, Chelsea-Elliott public housing, and Hudson Guild. The development of these institutions, their location in space, and their role in the neighborhood is all connected through a set of social processes and decisions about the needs of children and families over time.
 
-## References
 
-[^1]: Here is a footnote example.
-[^2]: Here is another footnote example.
+
